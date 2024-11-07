@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivanth007
+- 👋 Hi, I’m Shivanth @Shivanth007
 - 👀 I’m interested in ...Coding and Research
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...research and coding projects and even on learning AIML with Quantum science
